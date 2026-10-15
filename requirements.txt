@@ -1,0 +1,8 @@
+ipykernel
+keras
+matplotlib
+numpy
+pillow
+scikit-learn
+seaborn
+torch

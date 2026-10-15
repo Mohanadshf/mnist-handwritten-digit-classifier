@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+.venv*/
+venv/
+
+# Python/Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
